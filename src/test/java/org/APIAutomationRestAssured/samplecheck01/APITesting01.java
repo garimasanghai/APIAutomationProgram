@@ -9,7 +9,6 @@ public class APITesting01 {
         // When() -> HTTP method? - GET/POST/PUT/PATCH, DELETE...
         // Then() -> Validation -> 200 oK, firstname == PRAMOD
 
-
         // Full URL - https://api.zippopotam.us/IN/560016
         // base URI - https://api.zippopotam.us
         // bath Path - /IN/560016

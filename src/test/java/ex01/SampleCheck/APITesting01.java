@@ -1,4 +1,4 @@
-package org.APIAutomationRestAssured.samplecheck01;
+package ex01.SampleCheck;
 
 import io.restassured.RestAssured;
 
@@ -14,12 +14,12 @@ public class APITesting01 {
         // bath Path - /IN/560016
         RestAssured
                 .given()
-                 .baseUri("https://api.zippopotam.us")
-                 .basePath("/IN/560016")
+                     .baseUri("https://api.zippopotam.us")
+                     .basePath("/IN/560016")
                 .when()
-                 .get() //http method
+                     .get() //http method
                 .then()
-                 .log().all().statusCode(200);
+                     .log().all().statusCode(200);
 
         // Expected status code <404> but was <200>
     }

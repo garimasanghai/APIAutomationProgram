@@ -1,4 +1,4 @@
-package org.APIAutomationRestAssured.samplecheck01;
+package ex01.SampleCheck;
 
 public class APITest04_BuilderPatternDesignPattern {
     public APITest04_BuilderPatternDesignPattern step1(){

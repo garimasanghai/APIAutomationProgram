@@ -1,4 +1,4 @@
-package org.APIAutomationRestAssured.samplecheck01;
+package ex01.SampleCheck;
 
 import io.restassured.RestAssured;
 

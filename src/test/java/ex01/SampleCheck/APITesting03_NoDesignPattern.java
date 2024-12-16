@@ -1,4 +1,4 @@
-package org.APIAutomationRestAssured.samplecheck01;
+package ex01.SampleCheck;
 
 public class APITesting03_NoDesignPattern {
     public void step1(){

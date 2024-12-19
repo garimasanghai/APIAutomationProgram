@@ -1,4 +1,4 @@
-package org.APIAutomationRestAssured.Get;
+package Get;
 
 import io.restassured.RestAssured;
 
